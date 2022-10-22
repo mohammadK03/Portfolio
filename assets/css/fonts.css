@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dosis', sans-serif;
+    src: url('../fonts/Dosis-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Fuzzy Bubbles', cursive;
+    src: url('../fonts/FuzzyBubbles-Regular.ttf') format('ttf');
+}
